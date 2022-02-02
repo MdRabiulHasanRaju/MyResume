@@ -1,0 +1,199 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+body {
+  font-family: "Open Sans", sans-serif;
+}
+.one {
+  background-color: rgb(6, 155, 220);
+  height: 258px;
+  width: 615px;
+}
+.one h1 {
+  text-align: center;
+  border-top: 1px solid #c5c5c5;
+  border-bottom: 1px solid #c5c5c5;
+  width: 328px;
+  padding: 5px;
+  color: white;
+  position: relative;
+  top: 73px;
+  padding: 16px;
+  left: 232px;
+  font-weight: bold;
+  font-size: 27px;
+}
+.one p {
+  font-size: 16px;
+  position: relative;
+  left: 292px;
+  top: 70px;
+  color: white;
+}
+.angle {
+  height: 32px;
+  overflow: hidden;
+  text-align: left;
+  position: relative;
+  left: -30px;
+}
+.angle1 {
+  height: 32px;
+  width: 41px;
+  background: rgb(6, 155, 220);
+  position: relative;
+}
+.angle2 {
+  height: 29px;
+  width: 43px;
+  background: rgb(6, 155, 220);
+  transform: rotate(45deg);
+  position: relative;
+  bottom: 35px;
+  left: 19px;
+}
+.angle p {
+  position: relative;
+  top: -55px;
+  left: 82px;
+  font-weight: 600;
+  font-size: 12px;
+}
+.phone {
+  padding: 5px;
+}
+.first {
+  width: 100px;
+  background-color: rgb(6, 155, 220);
+  height: 12px;
+  float: left;
+}
+.second {
+  height: 19px;
+  width: 10px;
+  background: rgb(6, 155, 220);
+  float: left;
+  position: relative;
+  top: -4px;
+}
+.third {
+  width: 33px;
+  height: 12px;
+  background: rgb(176, 176, 191);
+  float: left;
+}
+.skill-label {
+  height: 50px;
+  text-align: left;
+}
+img.mypic {
+  width: 172px;
+  height: 170px;
+  border-radius: 50%;
+}
+.two {
+  width: 850px;
+}
+.col-md-4.section1 {
+  background: rgb(217, 217, 217);
+  padding: 10px;
+  position: relative;
+  bottom: 243px;
+  border-top-left-radius: 105px;
+  border-top-right-radius: 105px;
+  text-align: center;
+  left: 15px;
+  width: 240px;
+  height: 1076px;
+}
+.aboutMe h3 {
+  border-bottom: 1px solid rgb(12, 140, 177);
+  font-weight: bold;
+  padding: 5px;
+}
+.contact h3 {
+  border-bottom: 1px solid rgb(12, 140, 177);
+  font-weight: bold;
+  padding: 5px;
+}
+.skills h3 {
+  border-bottom: 1px solid rgb(12, 140, 177);
+  font-weight: 600;
+  padding: 5px;
+}
+.col-md-8.section2 {
+  position: relative;
+  left: 16px;
+}
+.box {
+  margin-bottom: 10px;
+}
+.name-year h5 {
+  color: rgb(0, 112, 146);
+  font-weight: 600;
+}
+.name-year p {
+  font-weight: 600;
+}
+span.pass-year1 {
+  position: relative;
+  left: 37px;
+  color: black;
+}
+span.pass-year2 {
+  position: relative;
+  left: 101px;
+  color: black;
+}
+span.pass-year {
+  position: relative;
+  left: 79px;
+  color: black;
+}
+.education h3,
+.experience h3,
+.academic h3,
+.ref h3 {
+  background: rgb(6, 155, 220);
+  width: 165px;
+  color: white;
+  text-align: center;
+  padding: 7px;
+  position: relative;
+}
+.box p {
+  font-weight: 600;
+}
+.skill-label p {
+  font-weight: bold;
+}
+span.pass-year4 {
+  position: relative;
+  left: 115px;
+  color: black;
+}
+span.pass-year5 {
+  position: relative;
+  left: 203px;
+  color: black;
+}
+.main {
+  width: 615px;
+  background: rgb(227, 227, 227);
+  margin: auto;
+  height: 1104px;
+}
+.aboutMe p {
+  font-weight: 600;
+  font-size: 13px;
+  text-align: justify;
+}
+.myicon {
+  font-size: 23px;
+  position: relative;
+  z-index: 1;
+  top: 4px;
+  left: 25px;
+}
+.angle p a {
+  color: #333333;
+  text-decoration: none;
+}
